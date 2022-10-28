@@ -9,10 +9,6 @@
 - HTML
 - CSS
 
-## Live Demo
-
-[Live Demo](https://livedemo.com)
-
 ## Author
 
 👤 **Marcos Hernández Campos**
